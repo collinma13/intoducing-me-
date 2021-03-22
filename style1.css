@@ -1,0 +1,65 @@
+*{
+    background-color:white;
+}
+
+h1 {
+    padding: 50px;
+    font-family:'Faster One', cursive;
+    text-align: center; 
+    font-size: 30px;
+    background-color: lightskyblue;
+    color:black;
+
+}
+h2 {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h3 {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    border-radius: 0.5em;
+    /*
+    padding-right: 6em;
+    padding-left: 6em;
+    */
+    width: 200px;
+    display: block;
+}
+nav { 
+ width: 50%;
+ margin-right: auto;
+ margin-left: auto;
+}
+
+nav a:hover {
+    color: white;
+    background-color: #fbbfca ;
+}
+
+main {
+    background-color:white;
+    font-size: 17px;
+    padding-right: 2em;
+    padding-left: 2em;
+    font-family: 'Raleway', sans-serif
+}
+
+main em {
+  font-weight: bold;
+}
+
+img {
+    height: 30em;
+    width: 30em;
+    display: block;
+}
+
+footer {
+    background-color: white;
+}
